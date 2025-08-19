@@ -65,7 +65,6 @@
 ---
 
 ## 8. Worker Node Add & Delete (worker_node_add_delete.md)
-- 노드 삭제 절차 및 리소스 정리
+- 노드 삭제 절차, 추가 및 리소스 정리
 - drain 및 cordon 사용법
-- Node Lifecycle 관리
 ---
